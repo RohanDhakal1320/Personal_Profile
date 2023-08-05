@@ -8,7 +8,7 @@ Project Name 2: A brief description about this project.
 
 
 Get in Touch
-LinkedIn: Rohan Dhakal https://www.linkedin.com/in/rohan-dhakal-50b32b194/ 
+LinkedIn: Rohan Dhakal[https://www.linkedin.com/in/rohan-dhakal-50b32b194/]
 
 Contributing
 Contributions are what make the open-source community such an inspiring place to learn, share, and create. Any contributions you make to my projects are greatly appreciated.
