@@ -1,0 +1,27 @@
+name: PR Checklist Reminder
+
+on: 
+  pull_request:
+    types: [opened, edited, reopned]
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/github-script@v3
+      with:
+        github-token: ${{secrets.GITHUB_TOKEn}}
+        script: |
+          const checklistReminder = '
+            Please ensure the following tasks are completed:
+            - Code compiles correctly
+            - All tests pass
+            - New/modifies tests are included
+            - Documentation is updated
+          ';
+          github.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: checklistReminder
+          });
