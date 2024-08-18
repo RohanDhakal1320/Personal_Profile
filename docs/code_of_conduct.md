@@ -38,4 +38,4 @@ All comunity leaders are obligated to respect the privacy ans security of the re
 
 * Community Impact Guidelines were inspired by [Mozilla's Code of conduct enforcement ladder](https://github.com/mozilla/inclusion)
 
-* For answers to comon questions about this Code of Conduct, see the FAQ at [https://www.contributor-convenant.org/faq]. Translations are available at [https://www.contributor-convenant.org/translations]
+* For answers to comon questions about this Code of Conduct, see the FAQ at [https://www.contributor-covenant.org/faq/]. Translations are available at [https://www.contributor-covenant.org/translations/]
