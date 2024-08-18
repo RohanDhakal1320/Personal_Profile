@@ -18,6 +18,6 @@ Before you contribute, please take a moment to read through the following guidel
 
 Code of Conduct: Always adhere to the Code of Conduct. It provides a set of guidelines to ensure a healthy and respectful community.
 
-Contribution Guidelines: If you're looking to contribute, please first check out the Contribution Guidelines to understand the process.
+[Contribution Guidelines](https://github.com/RohanDhakal1320/Personal_Profile/blob/main/docs/contribution.md): If you're looking to contribute, please first check out the Contribution Guidelines to understand the process.
 
 Thank you for your interest, and I look forward to collaborating with you!
