@@ -16,7 +16,7 @@ Contributions are what make the open-source community such an inspiring place to
 
 Before you contribute, please take a moment to read through the following guidelines:
 
-Code of Conduct: Always adhere to the Code of Conduct. It provides a set of guidelines to ensure a healthy and respectful community.
+[Code of Conduct](https://github.com/RohanDhakal1320/Personal_Profile/blob/main/docs/code_of_conduct.md): Always adhere to the Code of Conduct. It provides a set of guidelines to ensure a healthy and respectful community.
 
 [Contribution Guidelines](https://github.com/RohanDhakal1320/Personal_Profile/blob/main/docs/contribution.md): If you're looking to contribute, please first check out the Contribution Guidelines to understand the process.
 
